@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <project>
-  <node name="t400.local" description="Rundeck server node" tags="" hostname="t400.local" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.16.7-ckt20-jan2016" username="fredy"/>
+  <node name="rd.pancake.cloud" description="Rundeck server node" tags="" hostname="rd.pancake.cloud" osArch="amd64" osFamily="unix" osName="Linux" osVersion="3.16.7-ckt20-jan2016" username="fredy"/>
   <node name="tssg" description="Small node in the tssg openstack" tags="tssg" osArch="amd64" osFamily="unix" osName="Linux" hostname="87.44.18.239" username="ubuntu" />
   <node name="tssg-2" description="Small node in the tssg openstack" tags="tssg" osArch="amd64" osFamily="unix" osName="Linux" hostname="87.44.18.242" username="ubuntu" />
 </project>
