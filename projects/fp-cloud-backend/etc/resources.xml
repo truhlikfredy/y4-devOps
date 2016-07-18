@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="rd.pancake.cloud" description="Rundeck server node" tags="" hostname="rd.pancake.cloud" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.4.0-31-generic" username="fredy"/>
+  <node name="tssg-main" description="Balancer/Monitor and main node in the tssg openstack" tags="tssg,balancer,monitor,main,node" osArch="amd64" osFamily="unix" osName="Linux" hostname="87.44.18.239" username="ubuntu" />
+  <node name="tssg-node" description="Small node in the tssg openstack" tags="tssg,node,dedicatedNode" osArch="amd64" osFamily="unix" osName="Linux" hostname="87.44.18.242" username="ubuntu" />
+</project>
